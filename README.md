@@ -20,8 +20,8 @@ Nombre -> Mes de nacimiento
 
 Ejemplo:
 
-Sofia -> Aifos
-Apellido -> Último dígito del día de Nacimiento
+* Sofia -> Aifos
+* Apellido -> Último dígito del día de Nacimiento
 
 0 -> "Mustache"
 1 -> "Pickle"
